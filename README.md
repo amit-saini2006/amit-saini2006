@@ -6,10 +6,10 @@
 
 ## 🚀 About Me
 
-I’m a passionate coder who is just starting out, and while I’m not entirely sure how or why I started coding, it has already become an integral part of my life. In fact, it feels like coding is my partner — without it, something feels missing.
+"I'm just getting into coding, and honestly, I’m not sure how or why I started, but now it feels like I can’t imagine my life without it. It’s kinda like coding has become my partner — without it, something just feels off, like I’m missing a piece.
 
 ### 💻 Why Coding?
-Coding started as something I stumbled into, but now, it's something I can't imagine living without. It’s like a puzzle I can't stop solving, and with every new concept I learn, I feel more and more excited to see what’s next.
+"Coding kinda happened by accident for me, but now it’s something I can’t imagine living without. It’s like this endless puzzle that I can’t stop working on, and every time I learn something new, I get even more hyped to see what’s coming next."
 
 ### 🔧 Technologies & Tools
 - Languages: Javascript, C++

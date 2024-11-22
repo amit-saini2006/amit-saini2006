@@ -1,4 +1,4 @@
-<div align="center color="red">
+<div align="center">
 
 # Hey there! 👋 I'm Amit Saini
 

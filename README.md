@@ -25,7 +25,7 @@ Coding started as something I stumbled into, but now, it's something I can't ima
 <div align="center">
 
 ## 📫 How to Reach Me
-- Email: [82amitsaini2@gamil.com](mailto:your-email@example.com)
+- Email: [82amitsaini2@gamil.com](mailto:82amitsaini2@gmail.com)
 - LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - Twitter: [@your-handle](https://twitter.com/your-handle)
 

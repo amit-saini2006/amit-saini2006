@@ -26,8 +26,6 @@
 
 ## 📫 How to Reach Me
 - Email: [82amitsaini2@gamil.com](mailto:82amitsaini2@gmail.com)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Twitter: [@your-handle](https://twitter.com/your-handle)
 
 </div>
 

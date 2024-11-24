@@ -6,10 +6,10 @@
 
 ## 🚀 About Me
 
-"I'm just getting into coding, and honestly, I’m not sure how or why I started, but now it feels like I can’t imagine my life without it. Coding has become my partner — without it, something feels off, like I’m missing a piece."
+"I’m just getting into coding, and honestly, I’m not sure how or why I started. But now, it feels like coding is something I truly enjoy. It has become my partner — without it, something feels off, like I’m missing a piece."
 
 ### 💻 Why Coding?
-"Coding happened by accident, but now it’s something I can’t imagine living without. It’s like an endless puzzle that I can’t stop working on, and every time I learn something new, I get even more excited to see what comes next."
+"Coding happened by accident, but now it excites, frustrates, and motivates me. It’s like an endless puzzle that I can’t stop working on. Every time I learn something new, I get even more excited to see what comes next."
 
 ### 🔧 Technologies & Tools
 - **Languages**: JavaScript, C++
@@ -34,6 +34,6 @@
 
 <div align="center">
 
-> "In the world of coding, every line of code is a step forward towards a greater adventure." 🚀
+> "In the world of coding, every line of code is a step forward toward a greater adventure." 🚀
 
 </div>

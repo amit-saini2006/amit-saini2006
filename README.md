@@ -26,7 +26,7 @@
 
 ## 📫 How to Reach Me
 - Email: [82amitsaini2@gmail.com](mailto:82amitsaini2@gmail.com)
-- LinkedIn: [Amit Saini](www.linkedin.com/in/amit-saini-863b7037b)
+- LinkedIn: [Amit Saini](https://www.linkedin.com/in/amit-saini-863b7037b)
 
 </div>
 
